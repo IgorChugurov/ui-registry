@@ -37,6 +37,24 @@ These `/r/${component_name}.json` files are generated using `shadcn/ui` during t
 repository's [`registry.json`](./registry.json). For more information, refer to the
 [documentation](https://ui.shadcn.com/docs/registry/registry-json).
 
+## Installation
+
+To install components from this registry, use the following command:
+
+```bash
+npx shadcn@latest add https://ui-registry-lyart.vercel.app/r/[component-name].json
+```
+
+### Examples
+
+```bash
+# Install hero component
+npx shadcn@latest add https://ui-registry-lyart.vercel.app/r/hero.json
+
+# Install dashboard component
+npx shadcn@latest add https://ui-registry-lyart.vercel.app/r/dashboard.json
+```
+
 ## Theming
 
 To use a custom theme for all the components, all you need to do is modify the CSS tokens in
