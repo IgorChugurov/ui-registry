@@ -103,7 +103,7 @@
         "https://ui-registry-lyart.vercel.app/r/brand-header.json",
         "https://ui-registry-lyart.vercel.app/r/brand-sidebar.json",
         "https://ui-registry-lyart.vercel.app/r/product-grid.json",
-        "https://ui-registry-lyart.vercel.app/r/theme.json"
+        "https://ui-registry-lyart.vercel.app/r/theme.json",
         "https://ui-registry-lyart.vercel.app/r/brand-header.json",
         "https://ui-registry-lyart.vercel.app/r/brand-sidebar.json",
         "https://ui-registry-lyart.vercel.app/r/product-grid.json",
@@ -131,7 +131,7 @@
         "https://ui-registry-lyart.vercel.app/r/sonner.json",
         "https://ui-registry-lyart.vercel.app/r/brand-header.json",
         "https://ui-registry-lyart.vercel.app/r/brand-sidebar.json",
-        "https://ui-registry-lyart.vercel.app/r/theme.json"
+        "https://ui-registry-lyart.vercel.app/r/theme.json",
         "https://ui-registry-lyart.vercel.app/r/sonner.json",
         "https://ui-registry-lyart.vercel.app/r/brand-header.json",
         "https://ui-registry-lyart.vercel.app/r/brand-sidebar.json",
@@ -157,7 +157,7 @@
       "description": "A store application with your brand themed components",
       "registryDependencies": [
         "https://ui-registry-lyart.vercel.app/r/product-grid.json",
-        "https://ui-registry-lyart.vercel.app/r/theme.json"
+        "https://ui-registry-lyart.vercel.app/r/theme.json",
         "https://ui-registry-lyart.vercel.app/r/product-grid.json",
         "https://ui-registry-lyart.vercel.app/r/theme.json"
       ],
@@ -186,7 +186,7 @@
         "sidebar",
         "https://ui-registry-lyart.vercel.app/r/sonner.json",
         "https://ui-registry-lyart.vercel.app/r/logo.json",
-        "https://ui-registry-lyart.vercel.app/r/theme.json"
+        "https://ui-registry-lyart.vercel.app/r/theme.json",
         "https://ui-registry-lyart.vercel.app/r/sonner.json",
         "https://ui-registry-lyart.vercel.app/r/logo.json",
         "https://ui-registry-lyart.vercel.app/r/theme.json"
@@ -218,7 +218,7 @@
         "button",
         "sidebar",
         "https://ui-registry-lyart.vercel.app/r/sonner.json",
-        "https://ui-registry-lyart.vercel.app/r/theme.json"
+        "https://ui-registry-lyart.vercel.app/r/theme.json",
         "https://ui-registry-lyart.vercel.app/r/sonner.json",
         "https://ui-registry-lyart.vercel.app/r/theme.json"
       ],
@@ -248,7 +248,7 @@
         "badge",
         "button",
         "https://ui-registry-lyart.vercel.app/r/theme.json",
-        "https://ui-registry-lyart.vercel.app/r/logo.json"
+        "https://ui-registry-lyart.vercel.app/r/logo.json",
         "https://ui-registry-lyart.vercel.app/r/theme.json",
         "https://ui-registry-lyart.vercel.app/r/logo.json"
       ],
@@ -275,7 +275,6 @@
       "title": "Brand Logo",
       "description": "A styled, simple, reusable logo",
       "registryDependencies": [
-        "https://ui-registry-lyart.vercel.app/r/theme.json"
         "https://ui-registry-lyart.vercel.app/r/theme.json"
       ],
       "files": [
@@ -304,7 +303,6 @@
         "badge",
         "button",
         "https://ui-registry-lyart.vercel.app/r/theme.json"
-        "https://ui-registry-lyart.vercel.app/r/theme.json"
       ],
       "files": [
         {
@@ -331,7 +329,6 @@
       "registryDependencies": [
         "button",
         "https://ui-registry-lyart.vercel.app/r/theme.json"
-        "https://ui-registry-lyart.vercel.app/r/theme.json"
       ],
       "files": [
         {
@@ -356,7 +353,6 @@
       "title": "Product Grid",
       "description": "Product grid displaying all products with API to fetch data",
       "registryDependencies": [
-        "https://ui-registry-lyart.vercel.app/r/theme.json"
         "https://ui-registry-lyart.vercel.app/r/theme.json"
       ],
       "files": [
@@ -383,7 +379,6 @@
       "registryDependencies": [
         "accordion",
         "https://ui-registry-lyart.vercel.app/r/theme.json"
-        "https://ui-registry-lyart.vercel.app/r/theme.json"
       ],
       "files": [
         {
@@ -400,7 +395,6 @@
       "description": "Displays a callout for user attention.",
       "registryDependencies": [
         "alert",
-        "https://ui-registry-lyart.vercel.app/r/theme.json"
         "https://ui-registry-lyart.vercel.app/r/theme.json"
       ],
       "files": [
@@ -419,7 +413,6 @@
       "registryDependencies": [
         "avatar",
         "https://ui-registry-lyart.vercel.app/r/theme.json"
-        "https://ui-registry-lyart.vercel.app/r/theme.json"
       ],
       "files": [
         {
@@ -436,7 +429,6 @@
       "description": "Displays a small count or status indicator.",
       "registryDependencies": [
         "badge",
-        "https://ui-registry-lyart.vercel.app/r/theme.json"
         "https://ui-registry-lyart.vercel.app/r/theme.json"
       ],
       "files": [
@@ -455,7 +447,6 @@
       "registryDependencies": [
         "breadcrumb",
         "https://ui-registry-lyart.vercel.app/r/theme.json"
-        "https://ui-registry-lyart.vercel.app/r/theme.json"
       ],
       "files": [
         {
@@ -472,7 +463,6 @@
       "description": "Allows users to take actions with a single click or tap.",
       "registryDependencies": [
         "button",
-        "https://ui-registry-lyart.vercel.app/r/theme.json"
         "https://ui-registry-lyart.vercel.app/r/theme.json"
       ],
       "files": [
@@ -491,7 +481,6 @@
       "registryDependencies": [
         "calendar",
         "https://ui-registry-lyart.vercel.app/r/theme.json"
-        "https://ui-registry-lyart.vercel.app/r/theme.json"
       ],
       "files": [
         {
@@ -508,7 +497,6 @@
       "description": "Containers for displaying content and actions about a single subject.",
       "registryDependencies": [
         "card",
-        "https://ui-registry-lyart.vercel.app/r/theme.json"
         "https://ui-registry-lyart.vercel.app/r/theme.json"
       ],
       "files": [
@@ -527,7 +515,6 @@
       "registryDependencies": [
         "chart",
         "https://ui-registry-lyart.vercel.app/r/theme.json"
-        "https://ui-registry-lyart.vercel.app/r/theme.json"
       ],
       "files": [
         {
@@ -544,7 +531,6 @@
       "description": "Allows users to select multiple items from a list of options.",
       "registryDependencies": [
         "checkbox",
-        "https://ui-registry-lyart.vercel.app/r/theme.json"
         "https://ui-registry-lyart.vercel.app/r/theme.json"
       ],
       "files": [
@@ -563,7 +549,6 @@
       "registryDependencies": [
         "data-table",
         "https://ui-registry-lyart.vercel.app/r/theme.json"
-        "https://ui-registry-lyart.vercel.app/r/theme.json"
       ],
       "files": [
         {
@@ -580,7 +565,6 @@
       "description": "Displays the path to the current resource using a hierarchy of links.",
       "registryDependencies": [
         "date-picker",
-        "https://ui-registry-lyart.vercel.app/r/theme.json"
         "https://ui-registry-lyart.vercel.app/r/theme.json"
       ],
       "files": [
@@ -599,7 +583,6 @@
       "registryDependencies": [
         "dialog",
         "https://ui-registry-lyart.vercel.app/r/theme.json"
-        "https://ui-registry-lyart.vercel.app/r/theme.json"
       ],
       "files": [
         {
@@ -616,7 +599,6 @@
       "description": "Displays a menu to the user triggered by a button.",
       "registryDependencies": [
         "dropdown-menu",
-        "https://ui-registry-lyart.vercel.app/r/theme.json"
         "https://ui-registry-lyart.vercel.app/r/theme.json"
       ],
       "files": [
@@ -635,7 +617,6 @@
       "registryDependencies": [
         "input",
         "https://ui-registry-lyart.vercel.app/r/theme.json"
-        "https://ui-registry-lyart.vercel.app/r/theme.json"
       ],
       "files": [
         {
@@ -652,7 +633,6 @@
       "description": "A visually persistent menu common in desktop applications that provides quick access to a consistent set of commands.",
       "registryDependencies": [
         "menu-bar",
-        "https://ui-registry-lyart.vercel.app/r/theme.json"
         "https://ui-registry-lyart.vercel.app/r/theme.json"
       ],
       "files": [
@@ -671,7 +651,6 @@
       "registryDependencies": [
         "select",
         "https://ui-registry-lyart.vercel.app/r/theme.json"
-        "https://ui-registry-lyart.vercel.app/r/theme.json"
       ],
       "files": [
         {
@@ -688,7 +667,6 @@
       "description": "Visually or semantically separates content.",
       "registryDependencies": [
         "separator",
-        "https://ui-registry-lyart.vercel.app/r/theme.json"
         "https://ui-registry-lyart.vercel.app/r/theme.json"
       ],
       "files": [
@@ -707,7 +685,6 @@
       "registryDependencies": [
         "skeleton",
         "https://ui-registry-lyart.vercel.app/r/theme.json"
-        "https://ui-registry-lyart.vercel.app/r/theme.json"
       ],
       "files": [
         {
@@ -725,7 +702,6 @@
       "registryDependencies": [
         "slider",
         "https://ui-registry-lyart.vercel.app/r/theme.json"
-        "https://ui-registry-lyart.vercel.app/r/theme.json"
       ],
       "files": [
         {
@@ -742,7 +718,6 @@
       "description": "An opinionated toast component for React.",
       "registryDependencies": [
         "sonner",
-        "https://ui-registry-lyart.vercel.app/r/theme.json"
         "https://ui-registry-lyart.vercel.app/r/theme.json"
       ],
       "files": [
@@ -766,7 +741,6 @@
       "registryDependencies": [
         "switch",
         "https://ui-registry-lyart.vercel.app/r/theme.json"
-        "https://ui-registry-lyart.vercel.app/r/theme.json"
       ],
       "files": [
         {
@@ -783,7 +757,6 @@
       "description": "A responsive table component.",
       "registryDependencies": [
         "table",
-        "https://ui-registry-lyart.vercel.app/r/theme.json"
         "https://ui-registry-lyart.vercel.app/r/theme.json"
       ],
       "files": [
@@ -802,7 +775,6 @@
       "registryDependencies": [
         "tabs",
         "https://ui-registry-lyart.vercel.app/r/theme.json"
-        "https://ui-registry-lyart.vercel.app/r/theme.json"
       ],
       "files": [
         {
@@ -820,7 +792,6 @@
       "registryDependencies": [
         "toggle-group",
         "https://ui-registry-lyart.vercel.app/r/theme.json"
-        "https://ui-registry-lyart.vercel.app/r/theme.json"
       ],
       "files": [
         {
@@ -837,7 +808,6 @@
       "description": "A popup that displays information related to an element when the element receives keyboard focus or the mouse hovers over it.",
       "registryDependencies": [
         "tooltip",
-        "https://ui-registry-lyart.vercel.app/r/theme.json"
         "https://ui-registry-lyart.vercel.app/r/theme.json"
       ],
       "files": [
